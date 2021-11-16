@@ -1,0 +1,4 @@
+name, age, addr
+rio, 12, Load3
+shi, 22, Rada
+Li, 25, Liuj
