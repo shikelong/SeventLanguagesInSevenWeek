@@ -1,0 +1,17 @@
+[0m2021.12.08 23:11:25 INFO  Started: Metals version 0.10.9 in workspace '/Users/shikelong/Documents/Personal Projects/SeventLanguagesInSevenWeek' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.08 23:11:25 INFO  time: initialize in 0.63s[0m
+[0m2021.12.08 23:11:26 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.08 23:11:26 WARN  no build tool detected in workspace '/Users/shikelong/Documents/Personal Projects/SeventLanguagesInSevenWeek'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.08 23:11:26 WARN  no build target for: /Users/shikelong/Documents/Personal Projects/SeventLanguagesInSevenWeek/Scala/Day1/tic-tac-toe.scala[0m
+[0m2021.12.08 23:11:35 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.08 23:13:16 WARN  no build target for: /Users/shikelong/Documents/Personal Projects/SeventLanguagesInSevenWeek/Scala/Day1/tic-tac-toe.scala[0m
+[0m2021.12.08 23:14:04 WARN  no build target for: /Users/shikelong/Documents/Personal Projects/SeventLanguagesInSevenWeek/Scala/Day1/tic-tac-toe.scala[0m
+[0m2021.12.08 23:14:18 WARN  no build target for: /Users/shikelong/Documents/Personal Projects/SeventLanguagesInSevenWeek/Scala/Day1/tic-tac-toe.scala[0m
+[0m2021.12.08 23:14:24 WARN  no build target for: /Users/shikelong/Documents/Personal Projects/SeventLanguagesInSevenWeek/Scala/Day1/tic-tac-toe.scala[0m
+[0m2021.12.08 23:15:33 WARN  no build target for: /Users/shikelong/Documents/Personal Projects/SeventLanguagesInSevenWeek/Scala/Day1/tic-tac-toe.scala[0m
+[0m2021.12.08 23:16:38 WARN  no build target for: /Users/shikelong/Documents/Personal Projects/SeventLanguagesInSevenWeek/Scala/Day1/test.scala[0m
+Dec 08, 2021 11:16:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 356
+Dec 08, 2021 11:16:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 360
+[0m2021.12.08 23:22:28 WARN  no build target for: /Users/shikelong/Documents/Personal Projects/SeventLanguagesInSevenWeek/Scala/Day1/tic-tac-toe.scala[0m
