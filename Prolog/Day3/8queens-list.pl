@@ -23,7 +23,7 @@ diags2([(R, C)|T], [Diagonal|DiagonalsTail]) :-
     Diagonal is R+C,
     diags2(T, DiagonalsTail).
 
-
+%TODO: 皇后在列表中的位置是其行号，其值为列号
 eight_queens(Board) :-
     Board=[(1, _),  (2, _),  (3, _),  (4, _),  (5, _),  (6, _),  (7, _),  (8, _)],
     valid_board(Board),
@@ -35,4 +35,4 @@ eight_queens(Board) :-
     all_different(Diags2).
 
 
-%eight_queens([(1,A), (2,B), (3,C), (4,D), (5,E), (6,F), (7,G),(8,H)]).
+%eight_queens([A,B,C,D,E,F,G,H]).
